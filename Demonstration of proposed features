@@ -1,0 +1,20 @@
+🏠 Demonstration of Proposed Features:
+
+The House Analysis Dashboard developed using Tableau demonstrates the following key features:
+
+->>Interactive Sales Overview
+          Displays total sales, average house price, and yearly trends.
+          Dynamic filters for year, region, and property type.
+->>Regional Price Analysis
+          Compares housing prices across different regions.
+          Identifies high-demand and high-value locations.
+->>Price Distribution Insights
+          Visualizes price ranges using histograms and bar charts.
+          Helps understand affordability patterns.
+->>Trend Analysis
+          Shows how housing prices change over time.
+          Identifies growth patterns and seasonal variations.
+->>User-Friendly Filters
+          Allows users to select custom parameters.
+          Real-time updates for better decision-making.
+          The dashboard provides clear, interactive visual insights to help users analyze housing market trends effectively.
